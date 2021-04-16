@@ -1,4 +1,5 @@
-# MyLogger (mylogger) is the package that generates config for `uber-go/zap`'s logger
+# MyLogger (mylogger)
+## It is the package that generates config for `uber-go/zap`'s logger
 
 ## How to use it ?
 
